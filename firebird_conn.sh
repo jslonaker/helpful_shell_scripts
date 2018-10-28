@@ -1,1 +1,1 @@
-echo 'connect "172.0.0.253/3051:C:\Program Files\Fishbowl\database\data\UNITY AUTO LLC.FDB" user "sysdba" password "habcabom"'
+echo 'connect "172.0.0.1/3051:C:\Program Files\Fishbowl\database\data\dbfile.FDB" user "<username>" password "<password>"'
